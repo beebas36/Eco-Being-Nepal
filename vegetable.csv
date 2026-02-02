@@ -1,0 +1,20 @@
+OrderID,OrderDate,CustomerID,Vegetable,Category,Quantity_KG,Price_per_KG,PaymentMethod,City,Revenue
+2001,1/2/2024,C001,Potato,Root,5,30,Bank Tranfer,Kathmandu,150
+2002,1/3/2024,C002,Tomato,Fruit,3,40,Cash,Pokhara,120
+2003,1/5/2024,C003,Onion,Root,4,35,Credit Card,Lalitpur,140
+2004,1/6/2024,C004,Spinach,Leafy,2,25,Bank Tranfer,Bhaktapur,50
+2005,1/10/2024,C001,Cabbage,Leafy,3,28,Debit Card,Kathmandu,84
+2006,1/12/2024,C005,Carrot,Root,4,45,Cash,Pokhara,180
+2007,1/15/2024,C006,Cauliflower,Cruciferous,2,50,Bank Tranfer,Chitwan,100
+2008,1/18/2024,C002,Tomato,Fruit,5,40,Credit Card,Pokhara,200
+2009,1/20/2024,C007,Potato,Root,10,30,Cash,Butwal,300
+2010,1/22/2024,C003,Spinach,Leafy,3,25,Bank Tranfer,Lalitpur,75
+2011,2/1/2024,C008,Onion,Root,6,35,Debit Card,Kathmandu,210
+2012,2/3/2024,C004,Carrot,Root,5,45,Bank Tranfer,Bhaktapur,225
+2013,2/5/2024,C009,Cabbage,Leafy,4,28,Cash,Dharan,112
+2014,2/10/2024,C006,Cauliflower,Cruciferous,3,50,Credit Card,Chitwan,150
+2015,2/15/2024,C001,Tomato,Fruit,6,40,Bank Tranfer,Kathmandu,240
+2016,3/2/2024,C010,Potato,Root,8,30,Cash,Hetauda,240
+2017,3/5/2024,C002,Spinach,Leafy,4,25,Debit Card,Pokhara,100
+2018,3/8/2024,C003,Carrot,Root,3,45,Bank Tranfer,Lalitpur,135
+2019,3/12/2024,C005,Cabbage,Leafy,5,28,Credit Card,Biratnagar,140
